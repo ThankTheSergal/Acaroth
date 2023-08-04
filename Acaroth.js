@@ -359,4 +359,4 @@ Acaroth.on("messageCreate", async message =>{
     }
 });
 process.on('unhandledRejection', error => console.error('Uncaught Promise Rejection', error));
-Acaroth.login('MTAyMjk4MTA0NTQ1MDE4Njg4Mg.GUtXOY.bmOP7aMTuJCKzxgZpLHxrN1CQi71UefsFoA1s8');
+Acaroth.login('Your Token Here');
